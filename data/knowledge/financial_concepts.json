@@ -1,0 +1,74 @@
+[
+  {
+    "id": "savings-001",
+    "topic": "savings",
+    "subtopic": "what_is_savings",
+    "question_en": "What is savings?",
+    "answer_en": "Savings is money you keep aside from your income instead of spending it. It helps you prepare for emergencies, future goals like school fees, or starting a business.",
+    "tags": ["savings", "basics", "emergency-fund"],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "savings-002",
+    "topic": "savings",
+    "subtopic": "susu",
+    "question_en": "What is susu?",
+    "answer_en": "Susu is a traditional Ghanaian group savings system where members contribute a fixed amount regularly. Each member takes turns collecting the total pool. It builds saving habits without needing a bank.",
+    "tags": ["savings", "susu", "community", "traditional"],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "interest-001",
+    "topic": "interest",
+    "subtopic": "what_is_interest",
+    "question_en": "What is interest?",
+    "answer_en": "Interest is the extra money you pay when you borrow, or the extra money you earn when you save. If you borrow GHS 100 at 10% interest, you pay back GHS 110.",
+    "tags": ["interest", "loans", "savings", "basics"],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "mobile-money-001",
+    "topic": "mobile-money",
+    "subtopic": "what_is_momo",
+    "question_en": "What is mobile money?",
+    "answer_en": "Mobile money (MoMo) lets you send, receive, and save money using your phone without a bank account. In Ghana, MTN MoMo, Vodafone Cash, and AirtelTigo Money are the main services.",
+    "tags": ["mobile-money", "momo", "fintech", "basics"],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "budget-001",
+    "topic": "budgeting",
+    "subtopic": "what_is_budget",
+    "question_en": "What is a budget?",
+    "answer_en": "A budget is a plan for how to spend your money. You list your income, then decide how much to spend on food, transport, rent, and savings. A budget stops you from spending more than you earn.",
+    "tags": ["budgeting", "planning", "basics"],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "loan-001",
+    "topic": "loans",
+    "subtopic": "what_is_a_loan",
+    "question_en": "What is a loan?",
+    "answer_en": "A loan is money you borrow from a bank, microfinance institution, or person, with an agreement to pay it back — usually with interest — over a period of time.",
+    "tags": ["loans", "credit", "basics"],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "insurance-001",
+    "topic": "insurance",
+    "subtopic": "what_is_insurance",
+    "question_en": "What is insurance?",
+    "answer_en": "Insurance is an agreement where you pay a small amount regularly (called a premium) so that if something bad happens — like illness, accident, or fire — you receive financial support to cover the loss.",
+    "tags": ["insurance", "risk", "basics"],
+    "difficulty": "beginner"
+  },
+  {
+    "id": "inflation-001",
+    "topic": "inflation",
+    "subtopic": "what_is_inflation",
+    "question_en": "What is inflation?",
+    "answer_en": "Inflation is when prices of goods and services rise over time. If inflation is high, the same amount of money buys less than before. In Ghana, the Bank of Ghana monitors inflation to keep prices stable.",
+    "tags": ["inflation", "economy", "basics"],
+    "difficulty": "intermediate"
+  }
+]
