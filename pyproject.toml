@@ -1,6 +1,6 @@
 [build-system]
 requires = ["setuptools>=68", "wheel"]
-build-backend = "setuptools.backends.legacy:build"
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "finling"
@@ -33,6 +33,10 @@ dev = [
 
 [project.scripts]
 finling = "finling.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["finling*"]
+exclude = ["tests*", "data*"]
 
 [tool.ruff]
 line-length = 88

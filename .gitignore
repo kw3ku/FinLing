@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# FinLing — personal/local files (not for the public repo)
+LEARNING_GUIDE.md
+LEARNING_GUIDE.pdf
+SESSION_LOG.md
+chat.json
