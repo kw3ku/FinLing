@@ -222,3 +222,6 @@ LEARNING_GUIDE.md
 LEARNING_GUIDE.pdf
 SESSION_LOG.md
 chat.json
+# Personal scratch/draft notes (c1.md, c2.md, c3.md, ...)
+c[0-9].md
+c[0-9][0-9].md
